@@ -6,4 +6,3 @@ expect(second_number).not_to equal(0)
 puts '#{first_number} + #{second_number}'
 
 first_number(0)
-
