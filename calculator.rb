@@ -1,2 +1,4 @@
 # Add your variables here
-first_number = "1"
+x = 1
+y = 5.0
+x + y 
