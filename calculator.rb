@@ -1,6 +1,6 @@
 # Add your variables here
-while 
-  
+while
+
 first_number = ()
 second_number = ()
 sum = " #{first_number} + #{second_number} "
