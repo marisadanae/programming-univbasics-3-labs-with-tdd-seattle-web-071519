@@ -1,8 +1,8 @@
 # Add your variables here
-first_number = 0
+def calculator_spec(first_name)
+  first_number = 0
+puts "#{first_number}"
 
-expect(second_number).not_to equal(0)
+end 
 
-puts '#{first_number} + #{second_number}'
-
-first_number(0)
+calculator_spec(0)
